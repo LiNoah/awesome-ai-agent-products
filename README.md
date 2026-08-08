@@ -94,6 +94,7 @@ Agents and assistants for everyday knowledge work, meetings, notes, and personal
 |---|---|---:|---|---|
 | [ChatGPT Tasks](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) | Assistant feature | No | Scheduled reminders and recurring prompts | Lets users schedule future assistant actions. |
 | [Notion AI](https://www.notion.com/product/ai) | Workspace assistant | No | Docs, notes, and knowledge bases | AI built into a flexible workspace. |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Desktop AI workforce | Yes | Coordinating research, coding, analysis, and content work | Local-first desktop application where a Commander plans and coordinates specialist agents through one chat. |
 | [Granola](https://www.granola.ai/) | Meeting notes | No | Human-readable meeting notes | AI notepad for meetings and follow-ups. |
 | [Lindy](https://www.lindy.ai/) | Personal/business agent | No | Email, calendar, and operations | Agent platform for recurring personal and team tasks. |
 | [Motion](https://www.usemotion.com/) | Scheduling assistant | No | Calendar and task planning | Uses AI to schedule tasks around meetings. |
