@@ -69,6 +69,7 @@ Products and projects for search, synthesis, report generation, and long-form re
 | [Consensus](https://consensus.app/) | Scientific search | No | Evidence-backed answers | Search engine for research papers and scientific claims. |
 | [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Research agent | Yes | Long-form research workflows | Open-source deep research implementation from LangChain. |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Research agent | Yes | Automated research reports | Generates research reports from web sources. |
+| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | Research API | No | Short paid research reports | Base mainnet x402 service. Free discovery; external USDC payers can buy a $2 report or $0.001 chat. |
 
 ## Workflow Automation
 
