@@ -85,6 +85,7 @@ Visual builders and automation platforms for connecting agents to apps, APIs, an
 | [Langflow](https://github.com/langflow-ai/langflow) | Agent workflow builder | Yes | Visual agent prototyping | Python-based visual builder for AI workflows. |
 | [Composio](https://github.com/ComposioHQ/composio) | Tool integration platform | Yes | Connecting agents to apps | Tooling layer for auth, actions, and integrations. |
 | [Pipedream](https://pipedream.com/) | Workflow automation | No | Developer-friendly workflows | Connects APIs, scripts, triggers, and AI steps. |
+| [SIDRA OS](https://agent.sidra-ai.com/) | Agent execution layer | No | Giving existing AI chats computer execution | Connects supported chats to files, terminal, browser, desktop workflows, memory, and orchestration. |
 
 ## Personal Productivity
 
