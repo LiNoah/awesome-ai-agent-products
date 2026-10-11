@@ -35,6 +35,7 @@ AI agents for software engineering, code editing, repository understanding, and 
 | [Aider](https://github.com/Aider-AI/aider) | Coding agent | Yes | Git-based pair programming | Edits files through chat and commits changes to Git. |
 | [opencode](https://github.com/sst/opencode) | Coding agent | Yes | Terminal coding agents | Open-source agentic coding tool for the terminal. |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Coding agent platform | Yes | Autonomous software tasks | Formerly OpenDevin; runs agents in a development environment. |
+| [Tale](https://github.com/tale-project/tale) | Agent workspace | Yes | Coordinating coding agents and teams | Self-hostable workspace for task assignment, persistent agent sandboxes, and review of reports and delivered files. |
 | [Cline](https://github.com/cline/cline) | VS Code agent | Yes | IDE task automation | Planning, file editing, terminal use, and browser automation inside VS Code. |
 | [Roo Code](https://github.com/RooVetGit/Roo-Code) | VS Code agent | Yes | Customizable coding workflows | Agentic coding assistant with multiple modes and tool integrations. |
 | [Continue](https://github.com/continuedev/continue) | AI coding assistant | Yes | Custom IDE assistants | Open-source assistant for VS Code and JetBrains. |
