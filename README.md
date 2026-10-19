@@ -132,6 +132,7 @@ Frameworks, runtimes, memory layers, and toolkits for building agent products.
 
 | Name | Type | Open Source | Best For | Notes |
 |---|---|---:|---|---|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Payment runtime | Yes | Agent payments with owner approval | Local CLI and stdio MCP on macOS Apple Silicon; MIT licensed. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Agent orchestration | Yes | Stateful multi-step agents | Graph-based framework for controllable agent workflows. |
 | [AutoGen](https://github.com/microsoft/autogen) | Multi-agent framework | Yes | Multi-agent conversations | Framework for building agentic AI applications. |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent framework | Yes | Role-based agent teams | Popular Python framework for collaborative agents. |
