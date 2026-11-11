@@ -98,6 +98,7 @@ Agents and assistants for everyday knowledge work, meetings, notes, and personal
 | [Lindy](https://www.lindy.ai/) | Personal/business agent | No | Email, calendar, and operations | Agent platform for recurring personal and team tasks. |
 | [Motion](https://www.usemotion.com/) | Scheduling assistant | No | Calendar and task planning | Uses AI to schedule tasks around meetings. |
 | [Mem](https://get.mem.ai/) | AI notes | No | Personal knowledge management | AI-native notes and personal search. |
+| [Novastart](https://novastart.com/) | Infinite canvas OS with AI agents | Not specified | Working alongside agents and teammates in desktop apps | Shared canvas with apps and AI agents, each with their own mouse and keyboard; free plan available. |
 | [Superhuman AI](https://superhuman.com/ai) | Email assistant | No | Email triage and writing | AI features built into a productivity-focused email client. |
 
 ## Consumer Life Agents
