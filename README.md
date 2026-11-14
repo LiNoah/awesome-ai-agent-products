@@ -41,6 +41,7 @@ AI agents for software engineering, code editing, repository understanding, and 
 | [Tabby](https://github.com/TabbyML/tabby) | Code assistant | Yes | Self-hosted code completion | Local/self-hosted alternative for code completion and chat. |
 | [Devin](https://docs.devin.ai/) | AI software engineer | No | Managed software engineering tasks | Commercial autonomous software engineering agent from Cognition. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Research coding agent | Yes | Fixing GitHub issues | Agent framework designed around software engineering benchmarks. |
+| [Althar](https://github.com/AltharIDE/althar) | Desktop ADE | Yes | Coordinating coding agents | Assigns implementation tasks and sends changes to another model for review. |
 
 ## Browser Agents
 
